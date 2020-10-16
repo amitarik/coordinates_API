@@ -31,4 +31,9 @@ The Object structs is as the following:
 "result_id": 2
 ],
  
+ 
+ Notes:
+ a. Using python 3.7 
+ b. Install all requirements 
+ c. This PI using MongoDB please create a new DB called 'Database.SampleCollection' 
 
