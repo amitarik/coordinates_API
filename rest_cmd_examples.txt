@@ -1,0 +1,4 @@
+
+POST     curl --location --request POST http://127.0.0.1:5000/api/getAddresses -F file=@"<Full .csv file>"
+GET all: curl --location --request GET http://127.0.0.1:5000/api/getResult
+GET id : curl --location --request GET http://127.0.0.1:5000/api/getResult/<id>
